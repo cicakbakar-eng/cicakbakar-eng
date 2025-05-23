@@ -4,7 +4,7 @@ _Seorang siswa yang belajar menjadi pengembang yang penuh semangat dan antusias 
 
 ---
 
-![Banner](asset_img/github-header-image%20(1).png "Gambar Header GitHub")
+![cicakbakar-eng](asset-image/banner.png )
 
 ---
 
